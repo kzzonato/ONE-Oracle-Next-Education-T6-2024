@@ -1,0 +1,27 @@
+Luis é apaixonado por tecnologia e está dando seus primeiros passos no mundo da programação. Para praticar lógica de programação, ele decidiu desenvolver um sistema de login de usuário único em que é necessário apenas informar a senha para ver o conteúdo do restante do projeto.
+
+No entanto, ao testar o seu projeto, percebeu que não importava a senha passada para o sistema, o acesso sempre era permitido.
+
+Sabendo que você também está estudando lógica de programação, Luis pediu sua ajuda para que vocês consigam encontrar o bug juntos. Para isso, ele disponibilizou o código que escreveu:
+
+
+let senhaDoSistema = "senhaTeste!";
+
+let senha = prompt("Digite a senha do sistema:");
+
+if (senha = senhaDoSistema){
+    alert("Acesso ao sistema garantido");
+}
+
+Qual alteração você poderia sugerir ao Luis para que o seu sistema funcione como imaginado?
+
+R:
+ 
+ Dentro do If, você está colocando "=" ao invés de "==", então vc não está comparando as variaveis, mas sim atribuindo "senhaDoSistema" 
+
+para a variavel "senha". Então o programa está fazendo o que vc pediu: "Atribua 'senhaDoSistema' para 'senha' e depois lance um alert 
+
+dizendo 'Acesso ao sistema garantido', e não: compare 'senha' com 'senhaDoSistema' e se for verdadeiro lance um alert: 'Acesso ao sistema garantido', 
+
+caso ao contrario não faça nada".
+
