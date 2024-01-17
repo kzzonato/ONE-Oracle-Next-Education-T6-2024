@@ -1,0 +1,20 @@
+Você é uma pessoa desenvolvedora de software em uma clínica médica chamada Médica Voll. A empresa deseja que você crie um pequeno jogo de adivinhação para seus pacientes enquanto eles estão na sala de espera. Então, você decide criar um jogo do número secreto usando JavaScript, conforme a seguir:
+
+alert('Bem-vindo ao jogo do número secreto')
+let chute = prompt('Escolha um número entre 1 e 10')
+
+let numeroSecreto = 4
+
+console.log(chute == numeroSecreto)
+if (chute == numeroSecreto) {
+    alert('Acertou')
+} else {
+    alert('O número secreto era ' + numeroSecreto)
+}
+
+Dada essa estrutura básica de código que você criou, como você modificaria a mensagem do alerta para incluir o número que o paciente escolheu, caso não acertasse o número secreto? Escolha a alternativa correta:
+
+Obs: Note que o "+" usado serve como uma alternativa ao `-> template de strings já apresentado para realizarmos concatenação de strings/caracteres/valores de varíaveis no JavaScript.
+
+
+R: B- alert('O número secreto era ' + numeroSecreto + ', mas você escolheu ' + chute);

@@ -1,0 +1,20 @@
+Você é uma pessoa desenvolvedora de software que desenvolve aplicações para o Detran, que é o órgão responsável pela fiscalização e regulamentação do trânsito, habilitação de condutores, registro e licenciamento de veículos no Brasil.
+
+A idade mínima para dirigir no Brasil é 18 anos. Sabendo disso, uma equipe criou o seguinte programa:
+
+let idade = prompt("Digite sua idade:");
+
+if (idade >= 18) {
+  console.log("Você é maior de idade.");
+} else {
+  console.log("Você é menor de idade.");
+}
+
+Com essa base, analise as afirmações abaixo e marque apenas as verdadeiras.
+
+
+
+R: 
+
+B- Caso a idade seja igual a 18, a mensagem do console que será exibida será: Você é maior de idade.
+C- Caso a idade seja menor que 18, a mensagem do console que será exibida será: Você é menor de idade.
