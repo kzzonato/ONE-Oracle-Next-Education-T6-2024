@@ -1,0 +1,35 @@
+Willian está iniciando no mundo da programação e recentemente descobriu que existe uma maneira de executar um bloco de comandos repetidamente enquanto uma condição pré-estabelecida não for satisfeita.
+
+Animado com as possibilidades, ele decidiu treinar a utilização da estrutura while() em um projeto pessoal, de cálculo de médias aritméticas. No entanto, acabou se deparando com um loop infinito, e não conseguiu descobrir o por quê.
+
+Sabendo que você também está estudando lógica de programação, Willian pediu sua ajuda para localizar onde está o erro em seu código:
+
+let qtdNumeros = prompt('Digite a quantidade de números para o cálculo da média:');
+let soma = 0;
+let contador = qtdNumeros;
+
+while(contador > 0){
+    let numero = parseInt(prompt('Digite o numero:'));
+    soma += numero;
+}
+
+let media = soma / qtdNumeros;
+
+console.log(media);
+
+
+Qual alteração você poderia sugerir a Willian para que o código tenha o resultado esperado?
+
+
+R: Dentro dos parênteses do While, é uma condição que sempre será verdadeira. Coloque no final do bloco de codigo do While contador--; para ele decrementar o contador até chegar em 0.
+
+
+IA: Você acertou em cheio!
+
+Parabéns, Estudante! Sua resposta está certa. Adicionando a linha `contador--` dentro do loop while, você consegue decrementar o contador em cada iteração, permitindo que o loop seja encerrado quando o contador chegar a 0. Isso resolve o problema do loop infinito.
+
+
+
+
+
+
