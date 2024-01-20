@@ -1,0 +1,8 @@
+Você está lidando com a interação entre o HTML e o JavaScript para tornar a interface de usuário mais dinâmica e interativa. No entanto, você gostaria de mudar o título do seu aplicativo de forma dinâmica com o JavaScript.
+
+Qual código JavaScript você usaria para alterar o texto exibido no cabeçalho da sua página (elemento h1) para Bem-vindo ao mundo dev?
+
+R:
+
+B- let titulo = document.querySelector('h1')
+titulo.innerHTML = 'Bem-vindo ao mundo dev'
