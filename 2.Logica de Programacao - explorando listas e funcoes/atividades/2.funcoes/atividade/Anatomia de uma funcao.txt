@@ -1,0 +1,13 @@
+A anatomia de uma função em JavaScript é composta por diversas partes que definem seu comportamento. É importante compreender esses elementos para criar funções reutilizáveis e modularizar o código de forma eficiente.
+
+Assim, conhecer a estrutura das funções em JavaScript é fundamental para dominar a linguagem e desenvolver aplicações complexas de forma organizada e funcional.
+
+Com base no que vimos nesta aula, analise as afirmações abaixo e marque apenas as opções verdadeiras sobre funções.
+
+R:
+
+A- As funções em JavaScript podem ter um nome.
+
+B- Palavra-chave function: É usada para declarar uma função em JavaScript.
+
+C- Parênteses (): Após o nome da função (se houver), os parênteses são usados para definir os parâmetros da função.
