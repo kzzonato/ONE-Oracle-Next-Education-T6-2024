@@ -1,0 +1,4 @@
+As boas práticas na organização de um projeto podem ser consideradas um dos pilares fundamentais nas etapas iniciais do desenvolvimento. É muito importante iniciarmos da forma correta. Levando em consideração o que vimos anteriormente, podemos afirmar que:
+
+R:
+C- É uma boa prática criarmos pastas e subpastas que explicitem e organizem os arquivos de código de forma lógica.

@@ -1,0 +1,8 @@
+Ao criar um novo projeto é comum seguirmos um padrão para nomear seu arquivo principal e para estruturar a hierarquia de arquivos. Das alternativas abaixo assinale a que apresenta a hierarquia correta de um projeto HTML:
+
+
+R:
+
+A- Pasta do projeto -> index.html -> arquivos do projeto
+
+O termo “index” significa “índice”, pois essa página principal vai conter os links que redirecionam para as outras páginas do seu projeto. Sendo assim, esse nome facilita com que esse arquivo seja reconhecido como “padrão” dentro de sua pasta e será a primeira página carregada sempre que seu projeto for aberto.
