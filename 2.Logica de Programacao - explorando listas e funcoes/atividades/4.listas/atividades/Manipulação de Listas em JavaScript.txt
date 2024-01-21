@@ -1,0 +1,19 @@
+Você foi encarregado (a) de criar um pequeno programa para gerenciar uma lista de compras. O programa deve permitir que o usuário adicione itens à lista e, em seguida, exiba o conteúdo da lista na tela. Além disso, a pessoa usuária deve ser capaz de ver um item específico da lista, digitando o índice do item desejado.
+
+let listaCompras = [];
+
+listaCompras.push("Maçã");
+listaCompras.push("Arroz");
+listaCompras.push("Leite");
+listaCompras.push("Pão");
+listaCompras.push("Carne");
+
+Sabendo disso, analise as alternativas abaixo e marque apenas as sentenças verdadeiras:
+
+Selecione 2 alternativas
+
+R:
+
+  A- listaCompras.lengthexibe a quantidade de elementos de uma lista.
+
+  B- O código listaCompras[3] vai exibir o item Pão.
