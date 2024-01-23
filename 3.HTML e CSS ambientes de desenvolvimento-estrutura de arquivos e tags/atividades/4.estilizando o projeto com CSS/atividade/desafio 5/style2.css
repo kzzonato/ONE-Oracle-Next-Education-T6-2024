@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-family: "Oswald", sans-serif;
+}
+
+p{
+    color: gray;
+    font-family: "PT Sans Narrow", sans-serif;
+}

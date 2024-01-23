@@ -1,0 +1,14 @@
+body {
+    background-image: url(img/fundo_noxus.jpeg);
+}
+h1{
+    color:  yellow;
+}
+p{
+    font-family: "EB Garamond", serif;
+    color: red;
+    font-size: 500;
+}
+a {
+    color: yellow;
+}

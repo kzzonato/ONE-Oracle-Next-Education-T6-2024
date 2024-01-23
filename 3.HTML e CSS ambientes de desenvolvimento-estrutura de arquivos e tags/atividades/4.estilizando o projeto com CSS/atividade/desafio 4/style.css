@@ -1,0 +1,29 @@
+body{
+    background-image: url(img/mundo-cyberpunk.jpeg);
+    color: aqua;
+}
+strong{
+    color: red;
+}
+.insta{
+    background-color: aqua;
+    width: 150px;
+    height: 60px;
+    border-radius: 8px;
+}
+.git{
+    background-color: aqua;
+    background-color: aqua;
+    width: 150px;
+    height: 60px;
+    border-radius: 8px;
+}
+.email{
+    color: aqua;
+}
+.instagram{
+    color: aqua;
+}
+.linkedin{
+    color: aqua;
+}

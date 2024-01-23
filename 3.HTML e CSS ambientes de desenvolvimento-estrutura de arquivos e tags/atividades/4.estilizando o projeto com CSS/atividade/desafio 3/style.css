@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+strong{
+    color: aqua;
+}
+h1 {
+    font-family: "Krona One", sans-serif;
+}
+p {
+    font-family: "Montserrat",sans-serif;
+}
+.botao-insta{
+    color: black;
+    background-color: aqua;
+    border-radius: 8px;
+}
+.botao-git{
+    color: black;
+    background-color: aqua;
+    border-radius: 8px;
+}
