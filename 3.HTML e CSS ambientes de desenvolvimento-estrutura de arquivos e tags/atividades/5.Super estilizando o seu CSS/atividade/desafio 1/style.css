@@ -1,0 +1,18 @@
+body{
+    background-color: #00E0AB;
+}
+
+h1{
+    font-size: 80px;
+    color: #0083E0;
+    -webkit-stroke-color: black;
+    -webkit-text-stroke-width: 5px;
+}
+
+p{
+    font-size: 80px;
+    color: #00E014;
+    -webkit-stroke-color: black;
+    -webkit-text-stroke-width: 5px;
+
+}
