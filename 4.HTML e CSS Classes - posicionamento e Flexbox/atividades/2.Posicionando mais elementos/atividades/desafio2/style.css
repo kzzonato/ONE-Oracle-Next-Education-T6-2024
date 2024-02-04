@@ -1,0 +1,12 @@
+.tela{
+    height: 100vh;
+    background-color: grey;
+}
+
+.titulo-cor{
+    color: green;
+}
+
+.texto-cor{
+    color: black;
+}

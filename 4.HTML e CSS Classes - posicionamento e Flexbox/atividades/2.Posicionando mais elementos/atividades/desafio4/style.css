@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+.container {
+    display: flex;
+    align-items: center;  
+}
+ 
+.imagem{
+    width: 600px;
+}
