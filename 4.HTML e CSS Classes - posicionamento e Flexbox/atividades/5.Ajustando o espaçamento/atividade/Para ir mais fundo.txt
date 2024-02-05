@@ -1,0 +1,105 @@
+Aqui está uma lista de referências para você se aprofundar nos estudos, aprimorar seus conhecimentos e adquirir novas habilidades.
+
+CSS: seletores avançados que facilitam o desenvolvimento (Gratuito, Português, Artigo)Este artigo da Alura explora seletores avançados em CSS, incluindo seletores de classe, que são fundamentais para aplicar estilos específicos a elementos selecionados.
+Começando a organizar seu CSS (Gratuito, Português, Artigo)Este artigo fornece dicas sobre como organizar o CSS em um projeto, incluindo o uso de classes para aplicar estilos específicos e manter o código mais limpo e gerenciável.
+Criando componentes CSS com o padrão BEM (Gratuito, Português, Artigo)Explore como criar componentes CSS eficientes usando o padrão BEM, que é um método de nomeação de classes CSS para tornar o código mais claro, reutilizável e fácil de entender.
+Entendendo como funciona o Box Model e o Box Sizing (Gratuito, Português, Artigo)
+
+Este artigo da Alura explica o conceito de Box Model em CSS, detalhando como cada elemento HTML é representado como um bloco retangular dividido em quatro partes: conteúdo, espaçamento interno (padding), borda (border) e margem (margin).
+
+CSS: o que é, como usar no HTML e um Guia para iniciar (Gratuito, Português, Artigo)
+
+Este guia da Alura é uma introdução abrangente ao CSS, abordando desde conceitos básicos até dicas de como começar a usar o CSS em projetos HTML.
+
+Reset CSS: O que é, Exemplos, Como Criar e Utilizar (Gratuito, Português, Artigo)
+
+Este artigo explica o conceito de Reset CSS, uma técnica para remover estilos padrão dos navegadores, garantindo consistência e controle sobre a estilização das páginas.
+
+Organizando o CSS no seu projeto (Gratuito, Português, Artigo)
+
+Este artigo da Alura discute a organização do CSS em projetos, incluindo o uso de reset.css e base.css para padronizar estilos em diferentes navegadores.
+
+Guia de Unidades no CSS (Gratuito, Português, Artigo)
+
+Este artigo da Alura explica diferentes unidades no CSS, incluindo vh (viewport height), que é crucial para definir a altura dos elementos em relação à altura da viewport do usuário. A unidade vh é usada para garantir que um elemento, como o body, ocupe 100% da altura da tela.
+
+Dúvida sobre viewport em HTML e CSS: Classes, posicionamento e Flexbox (Gratuito, Português, Fórum de Discussão)
+
+Este tópico no fórum da Alura discute o uso de height: 100vh em CSS, destacando que essa propriedade é particularmente útil em páginas sem barra de rolagem e como deve ser aplicada cuidadosamente para evitar que o conteúdo "estoure" ou exceda os limites do elemento pa.
+
+Entendendo como funciona o Box Model e o Box Sizing (Gratuito, Português, Artigo)
+
+Este artigo aborda a propriedade box-sizing em CSS, especialmente o valor border-box. Box-sizing: border-box é uma configuração fundamental que altera como o tamanho do elemento é calculado, incluindo bordas e preenchimento (padding) nas dimensões totais, garantindo que os elementos filhos não ultrapassem os limites do elemento pai.
+
+Função do box-sizing: border-box em HTML e CSS (Gratuito, Português, Fórum de Discussão)
+
+Este tópico do fórum da Alura esclarece a função do box-sizing: border-box, explicando como essa propriedade influencia o cálculo do tamanho dos elementos, considerando as bordas e o padding.
+
+Flexbox CSS: guia completo, elementos e exemplos (Gratuito, Português, Artigo)
+
+Este artigo da Alura oferece um guia completo sobre Flexbox, explicando como essa tecnologia é eficiente para criar layouts, alinhar e distribuir espaços entre itens em um container. O artigo cobre os fundamentos do CSS Flexbox para alinhamento e posicionamento.
+
+CSS: Flexbox e layouts responsivos (Gratuito, Português, Curso Online)
+
+Este curso da Alura foca em organizar elementos com Flexbox em um projeto real, chamado AluraPlay. O curso abrange como utilizar Flexbox para criar layouts modernos e responsivos, enfatizando a importância de adaptar o layout a diferentes tamanhos de tela.
+
+Espaçamentos e dimensões (Gratuito, Português, Curso Online)
+
+Este curso da Alura explora como trabalhar com dimensões e espaçamentos em CSS, incluindo o uso de margin para criar espaçamento externo. O curso é útil para entender como as propriedades de margem (margin) e preenchimento (padding) afetam o layout dos elementos na página.
+
+Unidades relativas com EM e REM (Gratuito, Português, Curso Online)
+
+Este curso da Alura explora o uso de unidades relativas como EM e REM em CSS. Ele ensina como essas unidades podem ser usadas para definir tamanhos de fonte e larguras de maneira que se ajustem proporcionalmente, dependendo do contexto em que são usadas. O curso é útil para entender como mudar o tamanho de elementos de forma dinâmica e responsiva.
+
+Importação da fonte em HTML e CSS: responsividade com mobile-first (Gratuito, Português, Fórum de Discussão)
+
+Este tópico no fórum da Alura discute a importação de fontes do Google Fonts em CSS, comparando as práticas de copiar o link da fonte e colar no arquivo HTML com a prática de copiar o @import e colar no arquivo CSS. A discussão esclarece dúvidas comuns sobre a melhor maneira de incorporar fontes em projetos web.
+
+Google Fonts - Link ou import? (Gratuito, Português, Curso Online)
+
+Este tópico aborda a diferença entre os métodos de importação do Google Fonts, comparando a utilização da tag <link> e @import. A discussão destaca as diferenças no tratamento desses métodos pelos navegadores, proporcionando insights sobre qual método oferece vantagens em termos de desempenho.
+
+Tailwind: Adicionando fontes customizadas (Gratuito, Português, Artigo)
+
+Este artigo da Alura explora como trabalhar com fontes externas e locais em CSS, incluindo o uso da tag <link> e @font-face. O artigo oferece uma visão geral de como incorporar fontes personalizadas em projetos web, independente da escolha entre fontes externas ou locais.
+
+Como Importar Google Fonts em Arquivo CSS (Gratuito, Inglês, Tutorial)
+
+Este tutorial fornece instruções sobre como importar Google Fonts em um arquivo CSS, usando a regra @import ou a tag <link>. Ele oferece um exemplo de como usar Google Fonts com @font-face em um arquivo CSS separado, mostrando o processo passo a passo para integrar fontes personalizadas em um projeto web.
+
+Como Usar Google Fonts em CSS: Importando Google Fonts para CSS (Gratuito, Inglês, Tutorial)
+
+Este tutorial detalha o processo de seleção e importação de estilos de fonte do Google Fonts, incluindo instruções sobre como copiar o código necessário e aplicá-lo em um projeto CSS. O guia oferece um passo a passo simples e claro para integrar fontes do Google Fonts em páginas web.
+
+Tailwind CSS: estilizando a sua página com classes utilitárias (Gratuito, Português, Artigo)
+
+Este artigo discute o uso de classes utilitárias no Tailwind CSS, uma abordagem que pode ser aplicada para estilizar botões e outros elementos de interface. As classes utilitárias oferecem uma maneira prática de aplicar estilos específicos, facilitando o processo de design e mantendo a consistência do estilo em toda a página.
+
+Conhecendo padrões de CSS - (Gratuito, Português, Artigo)
+
+Este artigo da Alura explora diferentes padrões em CSS, que podem ser aplicados na estilização de botões. Conhecer esses padrões ajuda a entender como aplicar estilos de maneira mais eficiente e consistente, garantindo que os botões e outros elementos da página se integrem harmoniosamente ao design geral.
+
+Como fazer o link das redes sociais parecer um botão? (Gratuito, Português, Fórum)
+
+Este tópico no fórum da Alura discute como estilizar links para que pareçam botões, uma técnica útil para criar interfaces de usuário atraentes e funcionais. O tópico oferece dicas práticas para transformar elementos de link padrão em botões estilizados, melhorando a experiência do usuário.
+
+Botão dos links - HTML e CSS: Classes, posicionamento e Flexbox (Gratuito, Português, Fórum)
+
+Neste tópico do fórum da Alura, é discutida a propriedade border-radius, utilizada para arredondar as bordas dos elementos HTML, como botões. O tópico oferece exemplos práticos de como criar botões com formas retangulares e bordas arredondadas, uma técnica útil para melhorar a aparência visual dos botões.
+
+Dúvida sobre estilização de botões no curso HTML e CSS: Classes, posicionamento e Flexbox (Gratuito, Português, Fórum)
+
+Neste tópico do fórum da Alura, é abordada a atividade de estilizar botões no contexto do curso "HTML e CSS: Classes, posicionamento e Flexbox". O tópico fornece insights sobre as técnicas e práticas recomendadas para a estilização eficiente de botões em projetos web.
+
+Como remover linhas dos links dos botões(Gratuito, Português, Fórum)
+
+Este tópico do fórum da Alura oferece uma solução para remover a decoração de texto padrão dos links, que normalmente inclui uma linha sob o texto. O código text-decoration: none; é sugerido para remover essa decoração, uma técnica importante para melhorar a aparência dos botões estilizados como links.
+
+Erro no estilizando botões - HTML e CSS: Classes, posicionamento e Flexbox (Gratuito, Português, Fórum)
+
+Este tópico aborda problemas comuns encontrados ao estilizar botões em CSS. Ele oferece um exemplo de código para criar um botão com background-color, width, text-align, border-radius e padding, mostrando como essas propriedades podem ser combinadas para criar botões visualmente atraentes e funcionais.
+
+SASS e CSS: estilizando um site(Gratuito, Português, Artigo)
+
+Neste curso da Alura, é explicado como adicionar display: flex e, em seguida, flex-direction: column para alinhar os elementos em uma única coluna. Além disso, o curso aborda a utilização da propriedade gap para adicionar espaçamento entre os itens, uma técnica eficaz para criar espaçamentos consistentes e visuais atraentes.
+
