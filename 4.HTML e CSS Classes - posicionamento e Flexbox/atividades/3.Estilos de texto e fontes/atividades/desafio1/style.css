@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital@0;1&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+.apresentacao {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10%;
+}
+
+.apresentacao__conteudo__titulo{
+    color: aqua;
+    font-size: 50px;
+    font-family: "Krona One", sans-serif;
+}
+
+.apresentacao__conteudo__texto{
+    font-family: "Montserrat", sans-serif;
+    font-size: 28px;
+}
+
+.imagem{
+    width: 500px;
+}
